@@ -1,0 +1,10 @@
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe.config
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.pdb
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csprojResolveAssemblyReference.cache
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.Properties.Resources.resources
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.exe
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.pdb
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.FrmKhachHang.resources
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.frmNhanVien.resources

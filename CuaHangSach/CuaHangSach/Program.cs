@@ -16,7 +16,8 @@ namespace CuaHangSach
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form());
+            //Application.Run(new frmNhanVien());
+            Application.Run(new FrmKhachHang());
         }
     }
 }

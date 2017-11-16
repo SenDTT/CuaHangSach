@@ -1,0 +1,7 @@
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\bin\Debug\CuaHangSach.exe
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\bin\Debug\CuaHangSach.pdb
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Vipper\Desktop\CuaHangSach\CuaHangSach\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
