@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe.config
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.pdb
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.KhoSach.resources
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.exe
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.pdb
+C:\Users\Administrator\Desktop\Na - 16_11\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.NhapSach.resources
