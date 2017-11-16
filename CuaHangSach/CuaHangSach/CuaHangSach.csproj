@@ -46,8 +46,45 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConnectToSQL.cs" />
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhanQuyenDanhChoQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyenDanhChoQL.Designer.cs">
+      <DependentUpon>PhanQuyenDanhChoQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhanQuyenNhanVienKK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyenNhanVienKK.Designer.cs">
+      <DependentUpon>PhanQuyenNhanVienKK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhanQuyenNhanVienTN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyenNhanVienTN.Designer.cs">
+      <DependentUpon>PhanQuyenNhanVienTN.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyenDanhChoQL.resx">
+      <DependentUpon>PhanQuyenDanhChoQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyenNhanVienKK.resx">
+      <DependentUpon>PhanQuyenNhanVienKK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyenNhanVienTN.resx">
+      <DependentUpon>PhanQuyenNhanVienTN.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
