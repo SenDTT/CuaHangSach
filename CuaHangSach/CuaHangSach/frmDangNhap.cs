@@ -23,28 +23,12 @@ namespace CuaHangSach
         {
             try
             {
-                int so = Convert.ToInt32(user);
+                var so = Convert.ToInt32(user);
                 return true;
             }
             catch
             {
                 return false;
-            }
-        }
-      
-
-        private void txtpass_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (txtuser.Text.Trim() == "")
-            {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
-            if (!KiemTraSo(txtuser.Text.Trim()))
-            {
-                MessageBox.Show("Tài khoảng không hợp lệ", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
             }
         }
 
@@ -112,6 +96,26 @@ namespace CuaHangSach
             else
             {
                 MessageBox.Show("Đăng nhập không thành công, Vui lòng thử lại!!!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void frmDangNhap_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtpass_MouseClick_1(object sender, MouseEventArgs e)
+        {
+            if (txtuser.Text.Trim() == "")
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (!KiemTraSo(txtuser.Text.Trim()))
+            {
+                MessageBox.Show("Tài khoảng không hợp lệ", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
         }
     }

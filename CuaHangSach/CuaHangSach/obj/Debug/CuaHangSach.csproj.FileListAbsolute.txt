@@ -11,3 +11,16 @@ C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach
 C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenDanhChoQL.resources
 C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenNhanVienKK.resources
 C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenNhanVienTN.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe.config
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.pdb
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csprojResolveAssemblyReference.cache
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.frmDangNhap.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenDanhChoQL.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenNhanVienKK.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.PhanQuyenNhanVienTN.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.Properties.Resources.resources
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.exe
+C:\Users\THANHSEN\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.pdb
