@@ -1,0 +1,9 @@
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe.config
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Debug\CuaHangSach.pdb
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csprojResolveAssemblyReference.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.Properties.Resources.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Debug\CuaHangSach.pdb
